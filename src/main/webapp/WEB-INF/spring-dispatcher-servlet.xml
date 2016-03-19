@@ -49,8 +49,8 @@
 		<property name="dataSource" ref="dataSource" />
 		<property name="annotatedClasses">
 			<list>
-				<!-- <value>org.crce.interns.model.Job</value>
-				<value>org.crce.interns.model.Criteria</value> -->
+				<!-- <value>org.crce.interns.model.Job</value>-->
+				<value>org.crce.interns.model.Criteria</value> 
 				<value>org.crce.interns.model.Profile</value>
 			</list>
 		</property>
